@@ -77,7 +77,9 @@ if buy to be happened after the sell,
 It should be done after the BNB swap. which is impossible in this process.  
 
 It was hard for me but I have made a tweak workaround.  
-Now verifying that it could be possible.  
+I will not reveal it fully but,  
+the hint is: 3 swaps to fool the K
+I'm verifying for it could be possible or not.  
 And implementation could be hard.  
 So it may take lot of time. or maybe not.  
 

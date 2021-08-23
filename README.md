@@ -73,6 +73,8 @@ It should be done after the BNB swap. which is impossible in this process.
 
 It was hard for me but I have made a tweak workaround.  
 Now verifying that it could be possible.  
+And implementation could be hard.  
+So it may take lot of time. or maybe not.  
 
 And test will be quite easy.  
 Just spending some money matters.  

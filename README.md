@@ -1,3 +1,8 @@
+Writing here in private to claim that this concept is invented by me at this time.
+(check the commit history!)
+implementation can be dependent on situation.
+But I will write down in detail regarding limitation of the text
+
 # BounceUp
 
 # Feature

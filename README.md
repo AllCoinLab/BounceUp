@@ -5,6 +5,9 @@ But I will write down in detail regarding limitation of the text
 
 # BounceUp
 
+# Introduction of myself
+https://github.com/AllCoinLab
+
 # Feature
 Price bounces up after the sell
 

@@ -3,7 +3,7 @@ Writing here in private to claim that this concept is invented by me at this tim
 implementation can be dependent on situation.
 But I will write down in detail regarding limitation of the text
 
-# BounceUp
+# ⛹️ BounceUp ⛹️
 
 # Introduction of myself
 https://github.com/AllCoinLab
@@ -12,9 +12,9 @@ https://github.com/AllCoinLab
 Price bounces up after the sell
 
 # Motivation
-Buyback system is incomplete
--> want to make a new system
--> BounceUp is made
+Buyback system is incomplete  
+-> want to make a new system  
+-> BounceUp is made  
 
 # Detailed Description
 Buyback system is incomplete system for below reasons  
@@ -25,7 +25,7 @@ it helps sellers to get more money.
 If it was for the mitigating impact of the sell,  
 it should have been done after the sell.
 
-2. Buy amount is constant
+2. Buy amount is constant  
 So if someone makes small amount of sell than the buy amount,  
 person can benefit with higher price because of this buy.  
 Also it could make overall price to go up.  
@@ -35,21 +35,22 @@ For example,
 people can make very small buy to trigger constant buy multiple times to make price high,  
 and then sell all to make a bigger profit.  
 
-3. To block 1,2, liquidity should be high
+3. To block 1,2, liquidity should be high  
 If liquidity high, price will not change by relatively small amount of buy.  
-So 1. sellers wont get more money, 2. price will not go up and so won't get a bigger profit.  
+So 1. sellers wont get more money,  
+2. price will not go up and so won't get a bigger profit.  
 But it means buyback system itself is not effective.  
 it just makes a auto relatively small buy before the sell to make green buy log in the poocoin.  
 but it is not effective enough in the high liquidity situation.  
 also does not mitigate the sell impact regarding high liquidity.  
 
-4. because of 3. it is hard to be applied in low liquidity token.
+4. because of 3. it is hard to be applied in low liquidity token.  
 only presales with high liquidity can apply this method.  
 that means it cannot be widely used like redistribution, autoliquidity system.  
 as more widely used system helps more advertisement of the token invented that,  
 buyback system has limitations.
 
-5. It needs bag with BNB
+5. It needs bag with BNB  
 and also with 3, it needs big BNB.  
 which also enhances the problem of 4.
 
@@ -62,7 +63,7 @@ so it actually mitigates the impact of the sell.
 Also it doesnt need BNB bag.  
 
 So I named it as 'BounceUp'  
-(can be changed by the community. as always)
+(can be changed by the community. as always)  
 as price actually bounce up after the sell 
 
 and like I said, it is proportional with sell size,  
